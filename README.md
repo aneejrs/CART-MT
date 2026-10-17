@@ -1,4 +1,4 @@
-# ShopEase — React Developer Machine Test
+# ⛟ShopEase — React Developer Machine Test
 
 A modern, responsive e-commerce web application built with **React.js** and **Vite** as part of a React Developer Machine Test.
 
@@ -6,13 +6,13 @@ The application fetches products from the Fake Store API and provides a complete
 
 ---
 
-## Live Demo
+## ▶️Live Demo
 
-**Live URL:** `YOUR_DEPLOYED_URL_HERE`
+**Live URL🧑‍💻:** `YOUR_DEPLOYED_URL_HERE`
 
-# Features
+# ✨Features
 
-## Home Page
+## Home Page🏠︎
 
 - Fetches products from the Fake Store API
 - Displays product image
@@ -26,7 +26,7 @@ The application fetches products from the Fake Store API and provides a complete
 - Responsive product grid
 - Professional product cards
 
-## Cart Page
+## Cart Page🛒
 
 - Displays all selected products
 - Displays product quantity
@@ -41,7 +41,7 @@ The application fetches products from the Fake Store API and provides a complete
 - Checkout UI
 - Responsive layout
 
-## Navigation
+## Navigation📌
 
 - Home navigation
 - Cart navigation
@@ -50,7 +50,7 @@ The application fetches products from the Fake Store API and provides a complete
 
 
 
-# Tech Stack
+# Tech Stack</>
 
 - **React.js**
 - **Vite**
@@ -63,7 +63,7 @@ The application fetches products from the Fake Store API and provides a complete
 
 
 
-# API
+# API🔥
 
 The application uses the following API:
 
@@ -72,7 +72,7 @@ https://fakestoreapi.com/products
 
 
 
-# Project Structure
+# Project Structure🚧
 
 
 react-machine-test/
@@ -124,7 +124,7 @@ react-machine-test/
 └── README.md
 
 
-# Application Flow
+# Application Flow➤
 
 
                 ┌─────────────────┐
@@ -158,7 +158,7 @@ react-machine-test/
                  Recalculate Total
 
 
-# UI / UX
+# 🖼️UI / UX
 
 The interface was designed with a focus on:
 
@@ -176,7 +176,7 @@ The interface was designed with a focus on:
 
 
 
-# React Architecture
+# ⚛️React Architecture
 
 The application follows a simple component-based architecture:
 
@@ -192,7 +192,7 @@ App
     │
     └── Cart
 
-### `App.jsx`
+### `App.jsx`⚛️
 
 Responsible for:
 
@@ -201,7 +201,7 @@ Responsible for:
 - LocalStorage
 - Application routing
 
-### `Navbar.jsx`
+### `Navbar.jsx`⚛️
 
 Responsible for:
 
@@ -209,7 +209,7 @@ Responsible for:
 - Navigation
 - Cart count
 
-### `Home.jsx`
+### `Home.jsx`⚛️
 
 Responsible for:
 
@@ -218,7 +218,7 @@ Responsible for:
 - Error state
 - Product listing
 
-### `ProductCard.jsx`
+### `ProductCard.jsx`⚛️
 
 Responsible for:
 
@@ -227,7 +227,7 @@ Responsible for:
 - Price
 - Add to Cart interaction
 
-### `Cart.jsx`
+### `Cart.jsx`⚛️
 
 Responsible for:
 
@@ -238,15 +238,15 @@ Responsible for:
 - Total calculation
 
 
-# Deployment
+# Deployment🌐
 
 The project can be deployed to:
 
 - Vercel
 
-# Testing Checklist
+# 🖥️Testing Checklist
 
-### Home Page
+### Home Page🏠︎
 
 - [x] API products load
 - [x] Product images display
@@ -260,7 +260,7 @@ The project can be deployed to:
 - [x] Loading state works
 - [x] API error state works
 
-### Cart Page
+### Cart Page🛒
 
 - [x] Cart items display
 - [x] Quantity displays
@@ -273,7 +273,7 @@ The project can be deployed to:
 - [x] Empty cart state works
 - [x] Continue Shopping works
 
-### UI
+### UI🖼️
 
 - [x] Responsive design
 - [x] Professional icons
@@ -284,14 +284,14 @@ The project can be deployed to:
 - [x] Mobile layout
 - [x] Desktop layout
 
-### Persistence
+### Persistence💪
 
 - [x] Cart survives page refresh
 - [x] Cart is stored in LocalStorage
 
 ---
 
-# Future Improvements
+# 🔜Future Improvements
 
 For a production-level e-commerce application, the following could be added:
 
@@ -318,18 +318,18 @@ For a production-level e-commerce application, the following could be added:
 
 ---
 
-# Author
+# ✍️Author
 
-**Aneej R Suku**
+**Aneej R Suku**👨🏻‍💻
 
-React Developer
+React Developer⚛️👨🏻‍💻
 
-Portfolio:  https://my-portfolio-deployment-8zmo.vercel.app/
+💼Portfolio:  https://my-portfolio-deployment-8zmo.vercel.app/
 
-LinkedIn : https://www.linkedin.com/in/aneej-r-suku-ba6959217/
+📌LinkedIn : https://www.linkedin.com/in/aneej-r-suku-ba6959217/
 
 ---
 
-# License
+# 📜License
 
 This project was developed for a React Developer Machine Test and is intended for demonstration and evaluation purposes.
