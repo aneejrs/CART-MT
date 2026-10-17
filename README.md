@@ -324,7 +324,7 @@ For a production-level e-commerce application, the following could be added:
 
 React Developer⚛️👨🏻‍💻
 
-💼Portfolio:  https://my-portfolio-deployment-8zmo.vercel.app/
+💼Portfolio: https://aneejrsuku-portfolio-8zmo.vercel.app
 
 📌LinkedIn : https://www.linkedin.com/in/aneej-r-suku-ba6959217/
 
