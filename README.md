@@ -8,7 +8,7 @@ The application fetches products from the Fake Store API and provides a complete
 
 ## ▶️Live Demo
 
-**Live URL🧑‍💻:** `YOUR_DEPLOYED_URL_HERE`
+**Live URL🧑‍💻:https://cart-mt.vercel.app/
 
 # ✨Features
 
