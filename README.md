@@ -174,18 +174,7 @@ The interface was designed with a focus on:
 - Consistent typography
 - Product-focused presentation
 
-### Icon Design
 
-Lucide icons were selected instead of emoji to provide:
-
-- Consistent appearance
-- Better visual alignment
-- Scalable SVG icons
-- Cross-platform consistency
-- Professional UI appearance
-- Easy customization through CSS
-
----
 
 # React Architecture
 
