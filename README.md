@@ -50,7 +50,7 @@ The application fetches products from the Fake Store API and provides a complete
 
 
 
-# Tech Stack</>
+# </>Tech Stack
 
 - **React.js**
 - **Vite**
@@ -63,7 +63,7 @@ The application fetches products from the Fake Store API and provides a complete
 
 
 
-# API🔥
+# 🔥API
 
 The application uses the following API:
 
@@ -72,7 +72,7 @@ https://fakestoreapi.com/products
 
 
 
-# Project Structure🚧
+# 🚧Project Structure
 
 
 react-machine-test/
@@ -124,7 +124,7 @@ react-machine-test/
 └── README.md
 
 
-# Application Flow➤
+# ➤Application Flow
 
 
                 ┌─────────────────┐
@@ -238,7 +238,7 @@ Responsible for:
 - Total calculation
 
 
-# Deployment🌐
+# 🌐Deployment
 
 The project can be deployed to:
 
